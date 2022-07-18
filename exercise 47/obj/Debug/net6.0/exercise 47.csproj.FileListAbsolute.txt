@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\exercise 47\bin\Debug\net6.0\exercise 47.exe
+C:\Users\Hp\Desktop\exercise 47\bin\Debug\net6.0\exercise 47.deps.json
+C:\Users\Hp\Desktop\exercise 47\bin\Debug\net6.0\exercise 47.runtimeconfig.json
+C:\Users\Hp\Desktop\exercise 47\bin\Debug\net6.0\exercise 47.dll
+C:\Users\Hp\Desktop\exercise 47\bin\Debug\net6.0\exercise 47.pdb
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.AssemblyInfo.cs
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.dll
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\refint\exercise 47.dll
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.pdb
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\exercise 47.genruntimeconfig.cache
+C:\Users\Hp\Desktop\exercise 47\obj\Debug\net6.0\ref\exercise 47.dll
